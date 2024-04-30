@@ -1,0 +1,22 @@
+body {
+  background-color: #e5e2ff;
+}
+/*color claro #e5e2ff, color oscuro #b6a9f4 texo #f2e3f8*/
+.container {
+  background-color: #b6a9f4;
+}
+.image1 {
+  height: 200px;
+  width: 140px;
+}
+#tituloPrincipal {
+  color: #f2e3f8;
+}
+h1 {
+  text-align: center;
+  font-size: 70px;
+}
+.img1 {
+  display: flex;
+  justify-content: center;
+}
