@@ -47,7 +47,7 @@ header {
   text-shadow: 6px 2px 9px --#342b61(177, 148, 180);
 }
 .carrito {
-  padding-right: 30px;
+  padding-right: 35px;
 }
 body {
   background-color: var(--colorCaro);
