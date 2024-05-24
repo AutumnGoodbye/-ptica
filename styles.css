@@ -43,7 +43,7 @@ header {
 }
 .navbar-list a {
   color: var(--textoClaro);
-  font-weight: 400;
+  font-weight: 500;
   font-size: 18px;
   text-shadow: 6px 2px 9px --#342b61(177, 148, 180);
 }
