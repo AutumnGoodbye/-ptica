@@ -44,6 +44,7 @@ header {
 .navbar-list a {
   color: var(--textoClaro);
   font-weight: 400;
+  font-size: 20px;
   text-shadow: 6px 2px 9px --#342b61(177, 148, 180);
 }
 .carrito {
